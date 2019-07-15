@@ -22,7 +22,7 @@
  SOFTWARE.
  */
 
-#import "MGSwipeTableCell.h"
+#import <MGSwipeTableCell/MGSwipeTableCell.h>
 
 @interface BDSwipeTableViewCell : MGSwipeTableCell
 @property (nonatomic,strong) IBOutletCollection(UILabel) NSArray <UILabel *> *labels;
