@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "BDSwipeTableViewCell"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "Usefull tool for objective-c develop."
   s.description  = "Usefull tool for objective-c develop.Help yourself in this post.And buy me a cup of coffee.Just kidding.Anyway Where is coffee shop?"
   s.homepage     = "https://github.com/reference/BDSwipeTableViewCell"
