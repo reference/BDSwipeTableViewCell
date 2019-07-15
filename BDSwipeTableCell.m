@@ -22,9 +22,9 @@
  SOFTWARE.
  */
 
-#import "BDSwipeTableCell.h"
+#import "BDSwipeTableViewCell.h"
 
-@implementation BDSwipeTableCell
+@implementation BDSwipeTableViewCell
 
 - (IBAction)onButtons:(UIButton *)btn
 {
